@@ -4,4 +4,4 @@ This repository is a practice repository. I will be using it to learn GitHub, as
 
 If you ever happen to see this repository, please forgive my silly mistakes and clumsy code - I have been learning to code on a very part-time basis for just a few weeks.
 
-I do hope, however, that this repository can serve as a learning/revision aid for those who - like me - struggle with some of the concepts in basics statistics.
+I do hope, however, that this repository can one day serve as a learning/revision aid for those who - like me - struggle with some of the concepts in basics statistics.
